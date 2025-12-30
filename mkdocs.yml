@@ -36,21 +36,21 @@ theme:
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/link
-        name: Switch to light mode
+        name: Wissel naar lichte modus
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: indigo
       accent: indigo
       toggle:
         icon: material/toggle-switch
-        name: Switch to dark mode
+        name: Wissel naar donkere modus
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
       accent: indigo
       toggle:
         icon: material/toggle-switch-off
-        name: Switch to system preference
+        name: Wissel naar systeem voorkeur
   font:
     text: Roboto
     code: Roboto Mono
@@ -59,3 +59,10 @@ theme:
 # Page tree
 nav:
   - Home: index.md
+  - Wetboek:
+    - wetboek/index.md
+    - Strafrecht: wetboek/strafrecht.md
+  - APV:
+    - apv/index.md
+    - Ingame: apv/ingame.md
+    - Discord: apv/discord.md
