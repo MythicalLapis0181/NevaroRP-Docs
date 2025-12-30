@@ -33,24 +33,25 @@ theme:
     - toc.follow
     # - toc.integrate
   palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/link
-        name: Wissel naar lichte modus
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch
-        name: Wissel naar donkere modus
-    - media: "(prefers-color-scheme: dark)"
+   # - media: "(prefers-color-scheme)"
+    #  toggle:
+     #   icon: material/link
+      #  name: Wissel naar lichte modus
+   # - media: "(prefers-color-scheme: light)"
+    #  scheme: default
+     # primary: indigo
+      #accent: indigo
+      #toggle:
+       # icon: material/toggle-switch
+        #name: Wissel naar donkere modus
+        #- media: "(prefers-color-scheme: dark)"
+    - media: "default"
       scheme: slate
       primary: black
       accent: indigo
-      toggle:
-        icon: material/toggle-switch-off
-        name: Wissel naar systeem voorkeur
+   #   toggle:
+    #    icon: material/toggle-switch-off
+     #   name: Wissel naar systeem voorkeur
   font:
     text: Roboto
     code: Roboto Mono
