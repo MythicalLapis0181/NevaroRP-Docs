@@ -55,7 +55,8 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: assets/favicon.png
-
+  icon:
+    logo: assets/favicon.png
 # Page tree
 nav:
   - Home: index.md
