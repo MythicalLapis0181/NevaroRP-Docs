@@ -1,17 +1,17 @@
 # Wetboek
-Artikel I - Toepassing
+### Artikel I - Toepassing
 1. Het wetboek van Nevaro Roleplay is van toepassing op het gehele grondgebied van de stad Nevaro.
 2. Aanvullend op alle beschreven gevallen in dit wetboek is het Nederlands recht van toepassing.
    
-Artikel II - Geldigheid
+### Artikel II - Geldigheid
 1. Bij verandering van een wetgeving na het tijdstip waarop het feit begaan is, wordt voor de verdachte de meest gunstigste bepalingen toegepast.
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
 3. Minderjarigen worden binnen Nevaro op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Nevaro niet van toepassing.
    
-Artikel III - Verjaring van het strafbaar feit
+### Artikel III - Verjaring van het strafbaar feit
 1. Strafbare feiten verjaren na een periode van 30 dagen.
 
-Artikel IV - Strafbepaling
+### Artikel IV - Strafbepaling
 1. Straffen zijn vastgesteld en opgenomen per artikel. Hieronder vallen:
 - Officiele waarschuwingen
 - Taakstraffen
@@ -26,7 +26,7 @@ Artikel IV - Strafbepaling
 7. Een straf kan ook verlaagd worden door verzachtende omstandigheden.
 8. Een straf kan geheel of gedeeltelijk kwijtgescholden worden op basis van uitsluitingsgronden.
    
-Artikel V - Inbeslagnames en invorderingen
+### Artikel V - Inbeslagnames en invorderingen
 1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan deze in beslag worden genomen.
 a. De keuze voor inbeslagname is ter beoordeling van de politie.
 b. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van de Politie;
@@ -52,14 +52,14 @@ f. Op de openbare weg rijden met een voertuig met daarop een WOK-status.
 6. Alle bovenstaande leden gelden ook voor helikopters en vliegtuigen.
 7. Meerdere notities voor het vliegen zonder vliegbrevet zal resulteren in een inbeslagname van het voertuig.
    
-Artikel VI - Consultatierecht
+### Artikel VI - Consultatierecht
 1. Krachtens artikel 6 van het Europees Verdrag voor de Rechten van de Mens is het een verdachte, voorafgaand aan een verhoor, toegestaan consultatie te ontvangen van zijn of haar voorkeursadvocaat.
 2. Indien de voorkeursadvocaat genoemd in lid 1 niet beschikbaar is, is een vervangend advocaat afdoende om te voldoen aan dit recht.
 3. Indien de verdachte verkiest zelf een voorkeursadvocaat op te roepen zijn de kosten van consultatie en rechtsbijstand voor rekening van de verdachte;
 4. Indien de oproep zoals genoemd in lid 3 niet mogelijk blijkt, of de verdachte weigert een advocaat op te roepen, dan is de verbalisant verplicht tot het oproepen van een advocaat voor de verdachte;
 5. Uitsluitingsgrond voor lid 4 is wanneer verdachte expliciet en ondubbelzinnig afziet van zijn of haar recht tot consultatie.
    
-Artikel VII - Algemene rechtsbeginselen
+### Artikel VII - Algemene rechtsbeginselen
 1. De algemene rechtsbeginselen stellen eisen en scheppen kaders aan beleid of regelgeving. Beleid of regelgeving dat onvoldoende aansluit op algemene rechtsbeginselen kan onderhevig zijn aan uitsluiting of verwerping.
 2. Onder de algemene rechtsbeginselen wordt verstaan:
 a. Subsidiariteit, het toepassen van maatregelen en acties die het minst bezwarend zijn;
@@ -74,7 +74,7 @@ i. Détournement de pouvoir, waarbij de wet alleen mag toegepast worden waar dez
 j. Ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
 k. Het schutznorm-beginsel, waarbij er geen rechtsgevolg of sanctie wordt gekoppeld aan een vormfout als de verdachte niet zelf is getroffen in een (verdedigings)belang dat door het geschonden vormvoorschrift wordt beschermd.
 
-Artikel VIII - Medeplichtigheid en medeplegen
+### Artikel VIII - Medeplichtigheid en medeplegen
 1. Als medeplichtigen van een strafbaar feit worden gestraft:
 a. zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;
 b. zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf;
@@ -88,7 +88,7 @@ b. zij die door giften, beloften, misbruik van gezag, geweld, bedreiging, of mis
 6. Daders en medeplichtigen van een strafbaar feit worden gestraft volgens de strafbepaling van het desbetreffende artikel.
 7. Indien er onduidelijkheid is over medeplegen of medeplichtigheid tijdens een strafzaak dan kan een Hulpofficier van Justitie, Officier van Justitie of in uiterste gevallen een rechter hierover een eindoordeel vellen.
 
-Artikel IX - Voorhechtenis
+### Artikel IX - Voorhechtenis
 1. Voorhechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
 2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachte een strafbaar feit heeft begaan.
 3. De maximale periode van de voorhechtenis is 24 uur. Dit kan maximaal verlengt worden tot 72 uur voorarrest door een hOvJ.
