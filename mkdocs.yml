@@ -47,7 +47,11 @@ nav:
   - Home: index.md
   - Wetboeken:
     - wetboek/index.md
-    - Wetboek van Strafrecht: wetboek/strafrecht.md
+    - Strafrecht: wetboek/strafrecht.md
+    - Wegenverkeerswet: wetboek/wegenverkeerswet.md
+    - Opiumwet: wetboek/opiumwet.md
+    - Wet Wapens en Munitie: wetboek/wapensenmunitie.md
+    - Algemene Douanewet: wetboek/douanewet.md
   - Regels:
     - apv/index.md
     - Algemene Plaatselijke Verordening: apv/ingame.md
