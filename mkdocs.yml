@@ -60,8 +60,10 @@ theme:
 # Page tree
 nav:
   - Home: index.md
-  - Wetboek: wetboek/index.md
+  - Wetboek:
+    - Wetboek: wetboek/index.md
     - Strafrecht: wetboek/strafrecht.md
-  - APV: apv/index.md
+  - APV:
+    - APV: apv/index.md
     - Ingame: apv/ingame.md
     - Discord: apv/discord.md
