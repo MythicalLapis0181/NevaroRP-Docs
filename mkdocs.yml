@@ -46,9 +46,9 @@ theme:
 nav:
   - Home: index.md
   - Wetboek:
-    - Overzicht: wetboek/index.md
+    - wetboek/index.md
     - Strafrecht: wetboek/strafrecht.md
   - APV:
-    - Overzicht: apv/index.md
+    - apv/index.md
     - Ingame: apv/ingame.md
     - Discord: apv/discord.md
