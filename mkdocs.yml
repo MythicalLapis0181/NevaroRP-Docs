@@ -56,7 +56,7 @@ theme:
     code: Roboto Mono
   favicon: assets/favicon.png
   icon:
-    logo: https://i.ibb.co/NgqH43Bp/Nevaro-Roleplay-fivem-logo-2025-equaldesigns.png
+    logo: logo
 # Page tree
 nav:
   - Home: index.md
