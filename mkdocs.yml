@@ -56,7 +56,7 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: assets/favicon.png
-  logo: assets/favicon.png
+  logo: assets/nevaro_oranje.png
 # Page tree
 nav:
   - Home: index.md
