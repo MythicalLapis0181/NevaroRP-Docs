@@ -1,1 +1,1 @@
-# Strafrecht
+# Wetboek van Strafrecht
