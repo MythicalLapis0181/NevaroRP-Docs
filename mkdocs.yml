@@ -75,6 +75,7 @@ extra_javascript:
 
 # Extensions
 markdown_extensions:
+  - sane_lists
   - abbr
   - admonition
   - attr_list
