@@ -3,6 +3,7 @@
 ### Artikel I - Toepassing
 
 1. Het wetboek van Nevaro Roleplay is van toepassing op het gehele grondgebied van de stad Nevaro.
+
 2. Aanvullend op alle beschreven gevallen in dit wetboek is het Nederlands recht van toepassing.
    
 ### Artikel II - Geldigheid
