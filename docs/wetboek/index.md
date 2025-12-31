@@ -1,5 +1,7 @@
 # Wetboek Nevaro Roleplay
 
+<div class="wetboek-content" markdown>
+
 ---
 
 ## Artikel I – Toepassing
@@ -145,3 +147,5 @@ De volgende beginselen zijn leidend binnen Nevaro Roleplay:
 1. Voorhechtenis is uitsluitend toegestaan bij feiten waarop een gevangenisstraf staat.
 2. Wettig en overtuigend bewijs is vereist.
 3. De maximale duur bedraagt **24 uur**, verlengbaar tot **72 uur**.
+
+</div>
