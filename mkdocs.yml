@@ -68,7 +68,7 @@ extra_javascript:
   - javascripts/tables.js
 
 extra_css:
-  - material/overrides/assets/stylesheets/wetboek.css  # Dit bestand zorgt voor de wetboek-uitstraling
+  - assets/stylesheets/wetboek.css  # Dit bestand zorgt voor de wetboek-uitstraling
 
 # Extensions
 markdown_extensions:
