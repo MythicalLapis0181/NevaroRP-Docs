@@ -5,6 +5,7 @@ site_url: https://mythicallapis0181.github.io/NevaroRP-Docs
 # Configuration
 theme:
   name: material
+  custom_dir: material/overrides
   features:
     - content.action.edit
     - content.action.view
