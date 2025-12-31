@@ -11,31 +11,24 @@ theme:
     - content.action.view
     - content.code.annotate
     - content.code.copy
-    # - content.code.select
-    # - content.footnote.tooltips
-    # - content.tabs.link
     - content.tooltips
-    # - header.autohide
-    # - navigation.expand
     - navigation.footer
     - navigation.indexes
-    # - navigation.instant
-    # - navigation.instant.prefetch
-    # - navigation.instant.progress
-    # - navigation.prune
     - navigation.sections
     - navigation.tabs
-    # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - search.highlight
     - search.share
     - search.suggest
     - toc.follow
-    # - toc.integrate
   palette:
-    - media: "default"
+    - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: teal
+      accent: indigo
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: teal
       accent: indigo
   font:
@@ -69,19 +62,23 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/dvhn7tnvQb
 
+# Custom Styling & Scripts
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - javascripts/tables.js
 
+extra_css:
+  - material/overrides/assets/stylesheets/wetboek.css  # Dit bestand zorgt voor de wetboek-uitstraling
+
 # Extensions
 markdown_extensions:
-  - sane_lists
+  - sane_lists       # Zorgt dat a. b. c. en 1. 2. 3. niet door elkaar raken
   - abbr
   - admonition
-  - attr_list
+  - attr_list        # Nodig voor {: type="a"} en custom CSS classes
   - def_list
   - footnotes
-  - md_in_html
+  - md_in_html       # Zorgt dat je HTML in je Markdown kunt gebruiken
   - toc:
       permalink: true
   - pymdownx.arithmatex:
