@@ -1,80 +1,76 @@
-/* --- De "Officiële Wetboek" Look --- */
+/* --- OFFICIËLE WETBOEK LOOK (DARK MODE) --- */
 
-/* 1. De Artikel-balken (H2) */
+/* 1. Artikel balken (H2) */
 .md-typeset h2 {
-    background-color: rgba(255, 255, 255, 0.05); /* Subtiele grijze balk */
-    color: #4daafc !important;                 /* De blauwe kleur uit je voorbeeld */
-    padding: 10px 15px;
-    border-radius: 4px;
-    font-size: 1.1rem !important;
+    background-color: rgba(255, 255, 255, 0.08) !important; /* Lichtgrijze balk */
+    color: #4daafc !important;                             /* De blauwe Wetten.nl kleur */
+    text-transform: none !important;                       /* Stop de hoofdletters */
+    padding: 12px 20px !important;
+    border-radius: 4px !important;
+    font-size: 1.15rem !important;
     font-weight: 700 !important;
-    margin-top: 2em !important;
+    margin-top: 2.5em !important;
     margin-bottom: 1em !important;
-    border-bottom: none !important;            /* Verwijder de oude lijn */
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    border-bottom: none !important;
+    display: block !important;
+    width: 100%;
 }
 
-/* Voeg een subtiel lijntje toe aan de linkerkant van de balk */
-.md-typeset h2::before {
-    content: "";
-    position: absolute;
-    left: 0;
-    height: 100%;
-    width: 4px;
-    background-color: #4daafc;
-    border-radius: 4px 0 0 4px;
+/* 2. De grote Lid-nummers (1, 2, 3) */
+.wetboek-content ol {
+    list-style: none !important;
+    counter-reset: lid-counter;
+    padding-left: 0 !important;
 }
 
-/* 2. Hoofdstukken (H1) */
-.md-typeset h1 {
-    color: #4daafc !important;
-    font-size: 1.4rem !important;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-    padding-bottom: 10px;
-}
-
-/* 3. De nummering van de leden (Lijsten) */
-.md-typeset ol {
-    list-style: none; /* We maken onze eigen nummering */
-    counter-reset: wet-counter;
-    padding-left: 0;
-}
-
-.md-typeset ol > li {
-    counter-increment: wet-counter;
+.wetboek-content ol > li {
+    counter-increment: lid-counter;
     position: relative;
-    padding-left: 3em; /* Ruimte voor het dikke nummer */
-    margin-bottom: 1.5em;
-    line-height: 1.6;
+    padding-left: 3.5em !important; /* Ruimte voor het dikke nummer */
+    margin-bottom: 1.5em !important;
+    line-height: 1.6 !important;
+    color: #e2e2e2 !important;     /* Heldere tekstkleur */
 }
 
-/* Het dikke nummer aan de linkerkant */
-.md-typeset ol > li::before {
-    content: counter(wet-counter);
+/* Het vette nummer aan de linkerkant */
+.wetboek-content ol > li::before {
+    content: counter(lid-counter);
     position: absolute;
     left: 0;
-    font-weight: 900;
-    color: #ffffff;
-    font-size: 1.1rem;
-    width: 2em;
+    font-weight: 900 !important;
+    color: #ffffff !important;
+    font-size: 1.1rem !important;
+    width: 2.5em;
+    text-align: left;
 }
 
-/* 4. Sub-lijsten (a, b, c) */
-.md-typeset ol li ol {
-    margin-top: 10px;
+/* 3. Sub-lijsten (a. b. c.) */
+.wetboek-content ol li ol {
     counter-reset: sub-counter;
+    margin-top: 10px !important;
+    padding-left: 0 !important;
 }
 
-.md-typeset ol li ol > li {
+.wetboek-content ol li ol > li {
     counter-increment: sub-counter;
-    padding-left: 2em;
+    padding-left: 2em !important;
+    position: relative;
+    list-style: none !important;
 }
 
-.md-typeset ol li ol > li::before {
-    content: counter(sub-counter, lower-alpha) "."; /* a. b. c. */
-    font-weight: normal;
-    font-size: 0.9rem;
-    color: var(--md-primary-fg-color);
+.wetboek-content ol li ol > li::before {
+    content: counter(sub-counter, lower-alpha) ".";
+    position: absolute;
+    left: 0;
+    font-weight: 500;
+    color: #4daafc !important;
+}
+
+/* 4. Hoofdstukken (H1) */
+.md-typeset h1 {
+    color: #ffffff !important;
+    font-weight: 800 !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+    padding-bottom: 15px !important;
+    margin-bottom: 40px !important;
 }
