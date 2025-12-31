@@ -31,6 +31,7 @@
 4. Bij meerdere slachtoffers van een geweldsdelict wordt per extra slachtoffer **25% van de oorspronkelijke straf** toegevoegd.
 5. Bij herhaaldelijk plegen van hetzelfde strafbare feit onder andere omstandigheden wordt per extra delict **50% van de oorspronkelijke straf** toegevoegd.
 6. De maximale gevangenisstraf bedraagt **120 maanden**.
+    
     a. Overschrijding resulteert in een boeteverhoging van **€250 per extra maand**.
     b. Het maximum van deze verhoging bedraagt **€30.000**.
     {: type="a"}
@@ -43,7 +44,7 @@
 ### Lid 1 – Algemene bepalingen
 
 1. Goederen die zijn verkregen door of gebruikt bij een strafbaar feit kunnen in beslag worden genomen.
-    
+
     a. De keuze tot inbeslagname is ter beoordeling van de politie.
     b. Verwerking van in beslag genomen goederen (met uitzondering van voertuigen) geschiedt conform politierichtlijnen.
     {: type="a"}
