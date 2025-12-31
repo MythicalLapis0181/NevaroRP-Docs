@@ -14,15 +14,15 @@
 ### Artikel IV - Strafbepaling
 1. Straffen zijn vastgesteld en opgenomen per artikel. Hieronder vallen:
 
-   - Officiele waarschuwingen
+- Officiele waarschuwingen
 
-   - Taakstraffen
+- Taakstraffen
 
-   - Gevangenisstraffen
+- Gevangenisstraffen
 
-   - Inbeslagnames
+- Inbeslagnames
 
-   - Geldboetes
+- Geldboetes
 3. Een opgelegde straf is nooit hoger dan de vastgestelde waarden.
 4. Een straf kan wel verhoogd worden door het stapelen van overtredingen.
 5. Indien er sprake is van meerdere slachtoffers van een geweldsdelict, dan wordt er voor elk extra slachtoffer 25% van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd. Bij 2 slachtoffers zal er dus sprake zijn van een strafverhoging van 25% van de normale strafmaat, en zo verder.
