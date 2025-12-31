@@ -21,11 +21,11 @@
 ### Artikel IV - Strafbepaling
 
 1. Straffen zijn vastgesteld en opgenomen per artikel. Hieronder vallen:
-- Officiele waarschuwingen
-- Taakstraffen
-- Gevangenisstraffen
-- Inbeslagnames
-- Geldboetes
+   * Officiele waarschuwingen
+   * Taakstraffen
+   * Gevangenisstraffen
+   * Inbeslagnames
+   * Geldboetes
   
 2. Een opgelegde straf is nooit hoger dan de vastgestelde waarden.
 
