@@ -52,7 +52,6 @@
    
    a. De keuze tot inbeslagname is ter beoordeling van de politie.  
    b. Verwerking van in beslag genomen goederen (met uitzondering van voertuigen) geschiedt conform politierichtlijnen.
-   {: type="a"}
 
 ---
 
