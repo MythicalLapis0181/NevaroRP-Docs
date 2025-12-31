@@ -1,55 +1,80 @@
-/* --- Wetboek Look v2 --- */
+/* --- De "Officiële Wetboek" Look --- */
 
-/* 1. Algemene tekstinstellingen */
-.md-typeset {
-    font-family: "Georgia", serif !important;
-    font-size: 0.85rem; /* Iets kleiner voor die compacte wetboek-look */
-    line-height: 1.6;
-    color: #e2e2e2 !important; /* Helderdere tekst voor beter contrast */
-}
-
-/* 2. Artikelen (H2) - De hoofdkoppen */
+/* 1. De Artikel-balken (H2) */
 .md-typeset h2 {
-    font-weight: 800 !important;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: #ffffff !important; /* Wit maken zodat het opvalt */
-    border-bottom: 2px solid var(--md-primary-fg-color);
-    padding-bottom: 8px;
-    margin-top: 3em !important;
-    margin-bottom: 1em !important;
-}
-
-/* 3. Leden (H3) - Subkoppen */
-.md-typeset h3 {
+    background-color: rgba(255, 255, 255, 0.05); /* Subtiele grijze balk */
+    color: #4daafc !important;                 /* De blauwe kleur uit je voorbeeld */
+    padding: 10px 15px;
+    border-radius: 4px;
+    font-size: 1.1rem !important;
     font-weight: 700 !important;
-    font-style: italic;
-    color: var(--md-primary-fg-color) !important;
     margin-top: 2em !important;
-    border-left: 3px solid var(--md-primary-fg-color);
-    padding-left: 12px;
+    margin-bottom: 1em !important;
+    border-bottom: none !important;            /* Verwijder de oude lijn */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-/* 4. Lijsten (De eigenlijke wetten) */
+/* Voeg een subtiel lijntje toe aan de linkerkant van de balk */
+.md-typeset h2::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    height: 100%;
+    width: 4px;
+    background-color: #4daafc;
+    border-radius: 4px 0 0 4px;
+}
+
+/* 2. Hoofdstukken (H1) */
+.md-typeset h1 {
+    color: #4daafc !important;
+    font-size: 1.4rem !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    padding-bottom: 10px;
+}
+
+/* 3. De nummering van de leden (Lijsten) */
 .md-typeset ol {
-    margin-left: 0.5em;
-    border-left: 1px solid #333; /* Subtiele verticale lijn voor structuur */
-    padding-left: 1.5em;
+    list-style: none; /* We maken onze eigen nummering */
+    counter-reset: wet-counter;
+    padding-left: 0;
 }
 
-.md-typeset li {
-    margin-bottom: 12px;
-    text-align: justify; /* Tekst uitlijnen zoals in het echt */
+.md-typeset ol > li {
+    counter-increment: wet-counter;
+    position: relative;
+    padding-left: 3em; /* Ruimte voor het dikke nummer */
+    margin-bottom: 1.5em;
+    line-height: 1.6;
 }
 
-/* 5. Vetgedrukte termen in de tekst accentueren */
-.md-typeset strong {
+/* Het dikke nummer aan de linkerkant */
+.md-typeset ol > li::before {
+    content: counter(wet-counter);
+    position: absolute;
+    left: 0;
+    font-weight: 900;
     color: #ffffff;
-    font-weight: 700;
+    font-size: 1.1rem;
+    width: 2em;
 }
 
-/* 6. Horizontale lijnen tussen artikelen */
-.md-typeset hr {
-    border-bottom: 1px solid #444;
-    margin: 3em 0;
+/* 4. Sub-lijsten (a, b, c) */
+.md-typeset ol li ol {
+    margin-top: 10px;
+    counter-reset: sub-counter;
+}
+
+.md-typeset ol li ol > li {
+    counter-increment: sub-counter;
+    padding-left: 2em;
+}
+
+.md-typeset ol li ol > li::before {
+    content: counter(sub-counter, lower-alpha) "."; /* a. b. c. */
+    font-weight: normal;
+    font-size: 0.9rem;
+    color: var(--md-primary-fg-color);
 }
