@@ -1,11 +1,26 @@
-/* --- DEFINITIEVE LIJST-FIX --- */
+/* --- DE ULTIEME WETBOEK FIX --- */
 
+/* 1. Herstel de Artikel-balken (H2) */
+.md-typeset .wetboek-content h2 {
+    background-color: rgba(255, 255, 255, 0.08) !important;
+    color: #4daafc !important;
+    text-transform: none !important;
+    padding: 12px 20px !important;
+    border-radius: 4px !important;
+    font-size: 1.15rem !important;
+    font-weight: 700 !important;
+    margin-top: 2.5em !important;
+    display: block !important;
+    border-bottom: none !important;
+}
+
+/* 2. Reset alle standaard lijsten */
 .wetboek-content ol {
     list-style: none !important;
     padding-left: 0 !important;
 }
 
-/* NIVEAU 1: Alleen de hoofdnummers (1, 2, 3) */
+/* 3. NIVEAU 1: De grote witte nummers (1, 2, 3) */
 .wetboek-content > ol {
     counter-reset: lid-counter;
 }
@@ -13,41 +28,41 @@
 .wetboek-content > ol > li {
     counter-increment: lid-counter;
     position: relative;
-    padding-left: 3.5em !important;
+    padding-left: 3.5em !important; /* Ruimte voor het nummer */
     margin-bottom: 1.5em !important;
 }
 
-/* Plak het grote witte nummer alleen op niveau 1 */
 .wetboek-content > ol > li::before {
     content: counter(lid-counter) !important;
     position: absolute;
     left: 0;
     font-weight: 900 !important;
     color: #ffffff !important;
-    font-size: 1.1rem;
+    font-size: 1.1rem !important;
     width: 2.5em;
+    text-align: left;
 }
 
-/* NIVEAU 2: Alleen de blauwe letters (a, b, c) */
+/* 4. NIVEAU 2: De blauwe letters (a, b, c) */
 .wetboek-content ol li ol {
-    counter-reset: letter-counter;
+    counter-reset: sub-counter;
     margin-top: 10px !important;
 }
 
 .wetboek-content ol li ol > li {
-    counter-increment: letter-counter;
+    counter-increment: sub-counter;
     position: relative;
-    padding-left: 2.5em !important;
-    margin-bottom: 0.8em !important;
+    padding-left: 2.5em !important; /* Extra inspringing voor sub-items */
+    margin-bottom: 0.5em !important;
 }
 
-/* Verwijder eventuele 'erfenis' van het hoofdnummer en zet de letter neer */
+/* Verwijder de "erfenis" van het witte nummer en zet de blauwe letter neer */
 .wetboek-content ol li ol > li::before {
-    content: counter(letter-counter, lower-alpha) "." !important;
+    content: counter(sub-counter, lower-alpha) "." !important;
     position: absolute;
     left: 0;
-    color: #4daafc !important; /* De blauwe kleur uit je voorbeeld */
+    color: #4daafc !important;
     font-weight: 700 !important;
-    font-size: 1rem;
+    font-size: 1rem !important;
     width: 2em;
 }
