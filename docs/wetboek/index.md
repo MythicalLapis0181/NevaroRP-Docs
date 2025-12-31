@@ -1,133 +1,55 @@
 # Wetboek Nevaro Roleplay
 
 <div class="wetboek-content" markdown>
+## Wetboek Algemene Bepalingen & Rechtspraak (WABR)
 
-## Artikel I – Toepassing
+### Hoofdstuk I: Reikwijdte en Toepasselijkheid
 
-1. Het wetboek van **Nevaro Roleplay** is van toepassing op het gehele grondgebied van de stad Nevaro.
-2. Aanvullend op alle beschreven gevallen in dit wetboek is het **Nederlands recht** van toepassing.
+Dit hoofdstuk bepaalt waar en op wie de wetgeving van Nevaro van toepassing is.
 
-## Artikel II – Geldigheid
+* **Artikel I:** De wetgeving in dit wetboek is van toepassing op het gehele grondgebied van de staat, inclusief alle publieke ruimten, private eigendommen en wateren.
+* **Artikel II:** Ieder persoon die zich binnen de landgrenzen van de staat bevindt, wordt geacht de wet te kennen. Onwetendheid is geen excuus voor wetsovertreding.
+* **Artikel III:** De wet is gelijk voor iedereen. Rang, stand, beroep of vermogen bieden geen uitzonderingspositie voor strafrechtelijke vervolging.
 
-1. Bij verandering van wetgeving na het tijdstip waarop het feit is begaan, wordt voor de verdachte de **meest gunstige bepaling** toegepast.
-2. Het is een stafflid niet toegestaan mee te beslissen over een zaak die betrekking heeft op henzelf, vrienden en/of familie, teneinde een eerlijke en rechtvaardige behandeling te waarborgen.
-3. Minderjarigen worden binnen Nevaro gelijkgesteld aan volwassenen. Het **jeugdstrafrecht is niet van toepassing**.
+### Hoofdstuk II: Definities
 
-## Artikel III – Verjaring
+Om verwarring in rechtszaken te voorkomen, worden hier de kernbegrippen vastgelegd.
 
-1. Strafbare feiten verjaren na een periode van **dertig (30) dagen**.
+* **Artikel IV:** **Ambtenaar in Functie:** Een persoon werkzaam voor een overheidsinstantie (Politie, KMAR, Ambulancedienst, ANWB) die op dat moment geüniformeerd of herkenbaar de dienst uitvoert.
+* **Artikel V:** **Publieke Ruimte:** Alle locaties die vrij toegankelijk zijn voor het publiek, waaronder wegen, pleinen, parken en overheidsgebouwen.
+* **Artikel VI:** **Heterdaad:** Een situatie waarin een strafbaar feit wordt ontdekt terwijl het wordt begaan of terstond nadat het is begaan.
 
-## Artikel IV – Strafbepaling
+### Hoofdstuk III: Grondrechten en Rechtsbijstand
 
-1. Straffen zijn vastgesteld per artikel en kunnen bestaan uit:
-    * Officiële waarschuwingen
-    * Taakstraffen
-    * Gevangenisstraffen
-    * Inbeslagnames
-    * Geldboetes
+Dit hoofdstuk waarborgt de kwaliteit van de Roleplay voor verdachten.
 
-2. Een opgelegde straf overschrijdt nooit de vastgestelde maximumwaarden.
-3. Straffen kunnen worden verhoogd door **stapeling van overtredingen**.
-4. Bij meerdere slachtoffers van een geweldsdelict wordt per extra slachtoffer **25% van de oorspronkelijke straf** toegevoegd.
-5. Bij herhaaldelijk plegen van hetzelfde strafbare feit onder andere omstandigheden wordt per extra delict **50% van de oorspronkelijke straf** toegevoegd.
-6. De maximale gevangenisstraf bedraagt **120 maanden**.
-    
-    a. Overschrijding resulteert in een boeteverhoging van **€250 per extra maand**.
-    b. Het maximum van deze verhoging bedraagt **€30.000**.
-    {: type="a"}
+* **Artikel VII:** Eenieder heeft recht op een eerlijk proces. Een verdachte is onschuldig tot het tegendeel door een rechter of bevoegd ambtenaar is bewezen.
+* **Artikel VIII:** Bij een aanhouding heeft de verdachte recht op:
+1. Informatie over de reden van de aanhouding (de cautie).
+2. Het recht om te zwijgen.
+3. Rechtsbijstand (een advocaat). Indien er geen advocaat beschikbaar is, kan de verhoring onder strikte voorwaarden worden voortgezet.
 
-7. Straffen kunnen worden verlaagd bij **verzachtende omstandigheden**.
-8. Straffen kunnen geheel of gedeeltelijk worden kwijtgescholden op basis van **uitsluitingsgronden**.
 
-## Artikel V – Inbeslagnames en invorderingen
+* **Artikel IX:** De politie mag een verdachte maximaal zestig (60) minuten vasthouden voor onderzoek, tenzij er sprake is van verlenging door een officier van justitie of rechter-commissaris.
 
-### Lid 1 – Algemene bepalingen
+### Hoofdstuk IV: Bevoegdheden van Handhaving
 
-1. Goederen die zijn verkregen door of gebruikt bij een strafbaar feit kunnen in beslag worden genomen.
+Wanneer mag de politie ingrijpen?
 
-    a. De keuze tot inbeslagname is ter beoordeling van de politie.
-    b. Verwerking van in beslag genomen goederen (met uitzondering van voertuigen) geschiedt conform politierichtlijnen.
-    {: type="a"}
+* **Artikel X:** **Staande houden:** Een ambtenaar mag een persoon staande houden om naar diens identiteitspapieren te vragen indien daar een redelijke aanleiding voor is.
+* **Artikel XI:** **Aanhouden:** Een ambtenaar mag een persoon aanhouden (boeien en overbrengen naar het bureau) indien er een redelijk vermoeden is van een gepleegd strafbaar feit.
+* **Artikel XII:** **Fouillering:**
+1. **Veiligheidsfouillering:** Het controleren op wapens bij direct gevaar.
+2. **Insluitingsfouillering:** Het volledig doorzoeken van een persoon voor het betreden van de cel.
 
-### Lid 2 – Inbeslagname van voertuigen
 
-1. Een voertuig kan maximaal **drie (3) dagen** worden vastgehouden voor onderzoek.
-2. Binnen deze termijn verzamelt de politie bewijsmateriaal.
-3. Na bewijs kan het voertuig worden uitgekocht op basis van de ernst van het strafbare feit, **24 uur** na registratie.
-4. Indien het voertuig uit water moest worden gehaald, wordt het uitkooppercentage verhoogd met **10%**.
-5. Het voertuig wordt kosteloos teruggegeven indien:
-    
-    a. Na drie dagen onvoldoende bewijs aanwezig is;
-    b. Het voertuig als gestolen stond geregistreerd vóór het strafbare feit;
-    c. De eigenaar is overleden, waarna standaard uitkoopregels gelden.
-    {: type="a"}
+* **Artikel XIII:** **Betreden van Woningen:** Het betreden van een private woning is enkel toegestaan met een officieel bevel tot binnentreding, óf bij een heterdaad situatie waarbij het gevaar voor de samenleving direct is.
 
-6. Indien een advocaat een (H)OvJ inschakelt, kan maximaal **48 uur extra** worden toegekend voor bewijsvergaring.
-7. Beroep tegen inbeslagname is uitsluitend mogelijk via een advocaat of klachtenformulier.
-8. Uitzondering:
-    * Voertuigen zoals bedoeld in *Artikel III-14*
-    * Voertuigen die voor de **vierde keer** in beslag worden genomen
-    * Voertuigen langer dan **14 dagen** in opslag
-    
-    Deze worden vernietigd of verkocht, tenzij bezwaar is aangetekend.
+### Hoofdstuk V: Strafbepalingen
 
-### Lid 3 – Geldige gronden voor inbeslagname
+Hoe worden straffen berekend?
 
-1. Inbeslagname is toegestaan bij:
-    
-    a. Strafbare feiten uit dit wetboek
-    b. Misdrijven uit de Nederlandse wetgeving
-    c. Vluchten voor een stopteken
-    d. Het niet opvolgen van een ambtelijk bevel
-    e. Snelheidsovertredingen van meer dan **100%**
-    f. Voertuigen met een **WOK-status**
-    {: type="a"}
-
-2. Het basisuitkooppercentage bedraagt:
-    * **10%** bij verkeersdelicten
-    * **20%** bij overige delicten
-3. Deze bepalingen zijn ook van toepassing op **helikopters en vliegtuigen**.
-
-## Artikel VI – Consultatierecht
-
-1. Iedere verdachte heeft voorafgaand aan een verhoor recht op consultatie van een advocaat.
-2. Indien de voorkeursadvocaat niet beschikbaar is, volstaat een vervangend advocaat.
-3. Indien de verdachte zelf een advocaat oproept, zijn de kosten voor eigen rekening.
-4. Indien dit niet mogelijk is, is de verbalisant verplicht een advocaat op te roepen.
-5. Afstand van dit recht is alleen geldig indien dit **expliciet en ondubbelzinnig** gebeurt.
-
-## Artikel VII – Algemene rechtsbeginselen
-
-De volgende beginselen zijn leidend binnen Nevaro Roleplay:
-
-* Subsidiariteit
-* Proportionaliteit
-* Behoorlijk bestuur
-* Legaliteit
-* Kenbaarheid van regelgeving
-* Redelijkheid en billijkheid
-* Hoor en wederhoor
-* Onschuldpresumptie
-* *Ne bis in idem*
-* Détournement de pouvoir
-
-## Artikel VIII – Medeplichtigheid en medeplegen
-
-1. Medeplichtigen zijn zij die opzettelijk:
-    
-    a. behulpzaam zijn;
-    b. middelen of inlichtingen verschaffen;
-    c. het misdrijf bevorderen.
-    {: type="a"}
-
-2. Medeplichtigheid resulteert in een **strafvermindering van 33%**.
-3. Medeplegen vereist een **bewuste en nauwe samenwerking**.
-4. Bij twijfel beslist een (H)OvJ, OvJ of rechter.
-
-## Artikel IX – Voorhechtenis
-
-1. Voorhechtenis is uitsluitend toegestaan bij feiten waarop een gevangenisstraf staat.
-2. Wettig en overtuigend bewijs is vereist.
-3. De maximale duur bedraagt **24 uur**, verlengbaar tot **72 uur**.
-
+* **Artikel XIV:** Straffen kunnen bestaan uit geldboetes, gevangenisstraffen, taakstraffen of het intrekken van licenties (zoals het rijbewijs).
+* **Artikel XV:** **Cumulatie:** Bij meerdere overtredingen worden de boetes en celstraffen bij elkaar opgeteld, tenzij een rechter anders bepaalt.
+* **Artikel XVI:** **Recidive:** Indien een verdachte binnen een korte periode (bijv. 48 uur) herhaaldelijk hetzelfde strafbare feit pleegt, kan de straf met 50% worden verhoogd.
 </div>
