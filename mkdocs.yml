@@ -69,6 +69,10 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/dvhn7tnvQb
 
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+
 # Extensions
 markdown_extensions:
   - abbr
