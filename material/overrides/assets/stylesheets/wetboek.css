@@ -1,33 +1,55 @@
-/* Gebruik 'body' en '.md-typeset' om de standaard stijlen te forceren */
-body, .md-typeset {
-    font-family: "Georgia", "Times New Roman", serif !important;
-    color: #1a1a1a;
+/* --- Wetboek Look v2 --- */
+
+/* 1. Algemene tekstinstellingen */
+.md-typeset {
+    font-family: "Georgia", serif !important;
+    font-size: 0.85rem; /* Iets kleiner voor die compacte wetboek-look */
+    line-height: 1.6;
+    color: #e2e2e2 !important; /* Helderdere tekst voor beter contrast */
 }
 
-/* Uitlijning zoals in echte wetboeken */
-.md-typeset p, .md-typeset li {
-    text-align: justify;
-    line-height: 1.7;
-}
-
-/* Artikelen (H2) */
+/* 2. Artikelen (H2) - De hoofdkoppen */
 .md-typeset h2 {
-    font-weight: bold !important;
+    font-weight: 800 !important;
     text-transform: uppercase;
-    border-bottom: 2px solid #222;
-    padding-bottom: 5px;
-    margin-top: 40px !important;
+    letter-spacing: 0.05em;
+    color: #ffffff !important; /* Wit maken zodat het opvalt */
+    border-bottom: 2px solid var(--md-primary-fg-color);
+    padding-bottom: 8px;
+    margin-top: 3em !important;
+    margin-bottom: 1em !important;
 }
 
-/* Leden (H3) */
+/* 3. Leden (H3) - Subkoppen */
 .md-typeset h3 {
-    font-style: italic !important;
-    border-left: 4px solid teal; /* De kleur uit je palette */
-    padding-left: 15px;
-    margin-top: 25px !important;
+    font-weight: 700 !important;
+    font-style: italic;
+    color: var(--md-primary-fg-color) !important;
+    margin-top: 2em !important;
+    border-left: 3px solid var(--md-primary-fg-color);
+    padding-left: 12px;
 }
 
-/* Nummering strakker maken */
+/* 4. Lijsten (De eigenlijke wetten) */
 .md-typeset ol {
-    padding-left: 2em;
+    margin-left: 0.5em;
+    border-left: 1px solid #333; /* Subtiele verticale lijn voor structuur */
+    padding-left: 1.5em;
+}
+
+.md-typeset li {
+    margin-bottom: 12px;
+    text-align: justify; /* Tekst uitlijnen zoals in het echt */
+}
+
+/* 5. Vetgedrukte termen in de tekst accentueren */
+.md-typeset strong {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+/* 6. Horizontale lijnen tussen artikelen */
+.md-typeset hr {
+    border-bottom: 1px solid #444;
+    margin: 3em 0;
 }
