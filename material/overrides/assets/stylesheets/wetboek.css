@@ -1,57 +1,53 @@
-/* --- DE DEFINITIEVE LIJST FIX --- */
+/* --- DEFINITIEVE LIJST-FIX --- */
 
-/* Reset alle lijsten binnen de wetboek-content */
 .wetboek-content ol {
     list-style: none !important;
-    margin-left: 0 !important;
     padding-left: 0 !important;
 }
 
 /* NIVEAU 1: Alleen de hoofdnummers (1, 2, 3) */
 .wetboek-content > ol {
-    counter-reset: main-counter;
+    counter-reset: lid-counter;
 }
 
 .wetboek-content > ol > li {
-    counter-increment: main-counter;
+    counter-increment: lid-counter;
     position: relative;
     padding-left: 3.5em !important;
     margin-bottom: 1.5em !important;
 }
 
-/* Zet het grote witte nummer neer */
+/* Plak het grote witte nummer alleen op niveau 1 */
 .wetboek-content > ol > li::before {
-    content: counter(main-counter) !important;
+    content: counter(lid-counter) !important;
     position: absolute;
     left: 0;
     font-weight: 900 !important;
     color: #ffffff !important;
     font-size: 1.1rem;
     width: 2.5em;
-    text-align: left;
 }
 
-/* NIVEAU 2: Alleen de sub-items (a, b, c) */
+/* NIVEAU 2: Alleen de blauwe letters (a, b, c) */
 .wetboek-content ol li ol {
-    counter-reset: sub-counter;
+    counter-reset: letter-counter;
     margin-top: 10px !important;
-    /* Zorg dat de sub-lijst niet de stijl van de hoofdlijst overneemt */
 }
 
 .wetboek-content ol li ol > li {
-    counter-increment: sub-counter;
+    counter-increment: letter-counter;
     position: relative;
-    padding-left: 3em !important;
+    padding-left: 2.5em !important;
     margin-bottom: 0.8em !important;
 }
 
-/* Verwijder de "1" die per ongeluk bij de "a" komt te staan */
+/* Verwijder eventuele 'erfenis' van het hoofdnummer en zet de letter neer */
 .wetboek-content ol li ol > li::before {
-    content: counter(sub-counter, lower-alpha) "." !important;
+    content: counter(letter-counter, lower-alpha) "." !important;
     position: absolute;
     left: 0;
-    font-weight: 600 !important;
-    color: #4daafc !important; /* Blauwe letters */
+    color: #4daafc !important; /* De blauwe kleur uit je voorbeeld */
+    font-weight: 700 !important;
     font-size: 1rem;
     width: 2em;
 }
