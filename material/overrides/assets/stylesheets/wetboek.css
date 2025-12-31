@@ -1,76 +1,57 @@
-/* --- OFFICIËLE WETBOEK LOOK (DARK MODE) --- */
+/* --- DE DEFINITIEVE LIJST FIX --- */
 
-/* 1. Artikel balken (H2) */
-.md-typeset h2 {
-    background-color: rgba(255, 255, 255, 0.08) !important; /* Lichtgrijze balk */
-    color: #4daafc !important;                             /* De blauwe Wetten.nl kleur */
-    text-transform: none !important;                       /* Stop de hoofdletters */
-    padding: 12px 20px !important;
-    border-radius: 4px !important;
-    font-size: 1.15rem !important;
-    font-weight: 700 !important;
-    margin-top: 2.5em !important;
-    margin-bottom: 1em !important;
-    border-bottom: none !important;
-    display: block !important;
-    width: 100%;
-}
-
-/* 2. De grote Lid-nummers (1, 2, 3) */
+/* Reset alle lijsten binnen de wetboek-content */
 .wetboek-content ol {
     list-style: none !important;
-    counter-reset: lid-counter;
+    margin-left: 0 !important;
     padding-left: 0 !important;
 }
 
-.wetboek-content ol > li {
-    counter-increment: lid-counter;
-    position: relative;
-    padding-left: 3.5em !important; /* Ruimte voor het dikke nummer */
-    margin-bottom: 1.5em !important;
-    line-height: 1.6 !important;
-    color: #e2e2e2 !important;     /* Heldere tekstkleur */
+/* NIVEAU 1: Alleen de hoofdnummers (1, 2, 3) */
+.wetboek-content > ol {
+    counter-reset: main-counter;
 }
 
-/* Het vette nummer aan de linkerkant */
-.wetboek-content ol > li::before {
-    content: counter(lid-counter);
+.wetboek-content > ol > li {
+    counter-increment: main-counter;
+    position: relative;
+    padding-left: 3.5em !important;
+    margin-bottom: 1.5em !important;
+}
+
+/* Zet het grote witte nummer neer */
+.wetboek-content > ol > li::before {
+    content: counter(main-counter) !important;
     position: absolute;
     left: 0;
     font-weight: 900 !important;
     color: #ffffff !important;
-    font-size: 1.1rem !important;
+    font-size: 1.1rem;
     width: 2.5em;
     text-align: left;
 }
 
-/* 3. Sub-lijsten (a. b. c.) */
+/* NIVEAU 2: Alleen de sub-items (a, b, c) */
 .wetboek-content ol li ol {
     counter-reset: sub-counter;
     margin-top: 10px !important;
-    padding-left: 0 !important;
+    /* Zorg dat de sub-lijst niet de stijl van de hoofdlijst overneemt */
 }
 
 .wetboek-content ol li ol > li {
     counter-increment: sub-counter;
-    padding-left: 2em !important;
     position: relative;
-    list-style: none !important;
+    padding-left: 3em !important;
+    margin-bottom: 0.8em !important;
 }
 
+/* Verwijder de "1" die per ongeluk bij de "a" komt te staan */
 .wetboek-content ol li ol > li::before {
-    content: counter(sub-counter, lower-alpha) ".";
+    content: counter(sub-counter, lower-alpha) "." !important;
     position: absolute;
     left: 0;
-    font-weight: 500;
-    color: #4daafc !important;
-}
-
-/* 4. Hoofdstukken (H1) */
-.md-typeset h1 {
-    color: #ffffff !important;
-    font-weight: 800 !important;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
-    padding-bottom: 15px !important;
-    margin-bottom: 40px !important;
+    font-weight: 600 !important;
+    color: #4daafc !important; /* Blauwe letters */
+    font-size: 1rem;
+    width: 2em;
 }
