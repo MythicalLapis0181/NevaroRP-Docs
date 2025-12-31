@@ -1,0 +1,35 @@
+/* Specifieke styling voor wetboek-pagina's */
+.wetboek-content {
+    font-family: "Georgia", "Times New Roman", serif; /* Klassiek serif lettertype */
+    line-height: 1.6;
+    text-align: justify; /* Tekst uitvullen voor die strakke blok-look */
+    color: #1a1a1a;
+}
+
+/* Styling voor Artikel titels */
+.wetboek-content h2 {
+    border-bottom: 2px solid #222;
+    padding-bottom: 5px;
+    margin-top: 50px;
+    font-variant: small-caps; /* Maakt koppen chic */
+    font-weight: bold;
+    color: #000;
+}
+
+/* Styling voor Leden (H3) */
+.wetboek-content h3 {
+    font-style: italic;
+    margin-top: 25px;
+    color: #444;
+    border-left: 4px solid #teal; /* Een subtiel kleuraccent bij elk lid */
+    padding-left: 15px;
+}
+
+/* Lijsten strakker maken */
+.wetboek-content ol {
+    padding-left: 30px;
+}
+
+.wetboek-content li {
+    margin-bottom: 8px;
+}
