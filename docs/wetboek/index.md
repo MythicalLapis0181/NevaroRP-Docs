@@ -9,7 +9,9 @@
 ### Artikel II - Geldigheid
 
 1. Bij verandering van een wetgeving na het tijdstip waarop het feit begaan is, wordt voor de verdachte de meest gunstigste bepalingen toegepast.
+
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
+   
 3. Minderjarigen worden binnen Nevaro op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Nevaro niet van toepassing.
    
 ### Artikel III - Verjaring van het strafbaar feit
@@ -24,13 +26,14 @@
 - Gevangenisstraffen
 - Inbeslagnames
 - Geldboetes
-3. Een opgelegde straf is nooit hoger dan de vastgestelde waarden.
-4. Een straf kan wel verhoogd worden door het stapelen van overtredingen.
-5. Indien er sprake is van meerdere slachtoffers van een geweldsdelict, dan wordt er voor elk extra slachtoffer 25% van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd. Bij 2 slachtoffers zal er dus sprake zijn van een strafverhoging van 25% van de normale strafmaat, en zo verder.
-6. Indien er sprake is van meermaals gepleegde exact dezelfde strafbare feiten waarbij er sprake is van andere omstandigheden, dan wordt er voor elk extra delict 50% van de oorspronkelijke straf van het delict toegevoegd bij de totaalstraf.
-7. Er geldt een maximumcelstraf van 120 maanden. Als er volgens het wetboek meer dan 120 maanden aan de verdachte opgelegd (mogen) worden, dan wordt de boete verhoogd. De boete wordt verhoogd met €250,- per extra maand boven de 120 maanden met een maximum van €30.000,-.
-8. Een straf kan ook verlaagd worden door verzachtende omstandigheden.
-9. Een straf kan geheel of gedeeltelijk kwijtgescholden worden op basis van uitsluitingsgronden.
+  
+2. Een opgelegde straf is nooit hoger dan de vastgestelde waarden.
+3. Een straf kan wel verhoogd worden door het stapelen van overtredingen.
+4. Indien er sprake is van meerdere slachtoffers van een geweldsdelict, dan wordt er voor elk extra slachtoffer 25% van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd. Bij 2 slachtoffers zal er dus sprake zijn van een strafverhoging van 25% van de normale strafmaat, en zo verder.
+5. Indien er sprake is van meermaals gepleegde exact dezelfde strafbare feiten waarbij er sprake is van andere omstandigheden, dan wordt er voor elk extra delict 50% van de oorspronkelijke straf van het delict toegevoegd bij de totaalstraf.
+6. Er geldt een maximumcelstraf van 120 maanden. Als er volgens het wetboek meer dan 120 maanden aan de verdachte opgelegd (mogen) worden, dan wordt de boete verhoogd. De boete wordt verhoogd met €250,- per extra maand boven de 120 maanden met een maximum van €30.000,-.
+7. Een straf kan ook verlaagd worden door verzachtende omstandigheden.
+8. Een straf kan geheel of gedeeltelijk kwijtgescholden worden op basis van uitsluitingsgronden.
    
 ### Artikel V - Inbeslagnames en invorderingen
 
