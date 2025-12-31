@@ -1,15 +1,10 @@
 # Wetboek Nevaro Roleplay
 
 <div class="wetboek-content" markdown>
-
----
-
 ## Artikel I – Toepassing
 
 1. Het wetboek van **Nevaro Roleplay** is van toepassing op het gehele grondgebied van de stad Nevaro.
 2. Aanvullend op alle beschreven gevallen in dit wetboek is het **Nederlands recht** van toepassing.
-
----
 
 ## Artikel II – Geldigheid
 
@@ -17,13 +12,9 @@
 2. Het is een stafflid niet toegestaan mee te beslissen over een zaak die betrekking heeft op henzelf, vrienden en/of familie, teneinde een eerlijke en rechtvaardige behandeling te waarborgen.
 3. Minderjarigen worden binnen Nevaro gelijkgesteld aan volwassenen. Het **jeugdstrafrecht is niet van toepassing**.
 
----
-
 ## Artikel III – Verjaring
 
 1. Strafbare feiten verjaren na een periode van **dertig (30) dagen**.
-
----
 
 ## Artikel IV – Strafbepaling
 
@@ -42,8 +33,6 @@
 7. Straffen kunnen worden verlaagd bij **verzachtende omstandigheden**.
 8. Straffen kunnen geheel of gedeeltelijk worden kwijtgescholden op basis van **uitsluitingsgronden**.
 
----
-
 ## Artikel V – Inbeslagnames en invorderingen
 
 ### Lid 1 – Algemene bepalingen
@@ -52,8 +41,6 @@
     a. De keuze tot inbeslagname is ter beoordeling van de politie.
     b. Verwerking van in beslag genomen goederen (met uitzondering van voertuigen) geschiedt conform politierichtlijnen.
     {: type="a"}
-
----
 
 ### Lid 2 – Inbeslagname van voertuigen
 
@@ -75,8 +62,6 @@
     
     Deze worden vernietigd of verkocht, tenzij bezwaar is aangetekend.
 
----
-
 ### Lid 3 – Geldige gronden voor inbeslagname
 
 1. Inbeslagname is toegestaan bij:
@@ -92,8 +77,6 @@
     - **20%** bij overige delicten
 3. Deze bepalingen zijn ook van toepassing op **helikopters en vliegtuigen**.
 
----
-
 ## Artikel VI – Consultatierecht
 
 1. Iedere verdachte heeft voorafgaand aan een verhoor recht op consultatie van een advocaat.
@@ -101,8 +84,6 @@
 3. Indien de verdachte zelf een advocaat oproept, zijn de kosten voor eigen rekening.
 4. Indien dit niet mogelijk is, is de verbalisant verplicht een advocaat op te roepen.
 5. Afstand van dit recht is alleen geldig indien dit **expliciet en ondubbelzinnig** gebeurt.
-
----
 
 ## Artikel VII – Algemene rechtsbeginselen
 
@@ -119,8 +100,6 @@ De volgende beginselen zijn leidend binnen Nevaro Roleplay:
 * *Ne bis in idem*
 * Détournement de pouvoir
 
----
-
 ## Artikel VIII – Medeplichtigheid en medeplegen
 
 1. Medeplichtigen zijn zij die opzettelijk:
@@ -131,8 +110,6 @@ De volgende beginselen zijn leidend binnen Nevaro Roleplay:
 2. Medeplichtigheid resulteert in een **strafvermindering van 33%**.
 3. Medeplegen vereist een **bewuste en nauwe samenwerking**.
 4. Bij twijfel beslist een (H)OvJ, OvJ of rechter.
-
----
 
 ## Artikel IX – Voorhechtenis
 
