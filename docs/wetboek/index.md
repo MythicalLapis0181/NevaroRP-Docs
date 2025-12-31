@@ -1,4 +1,4 @@
-Wetboek Algemene Bepalingen & Rechtspraak (WABR)
+# Wetboek Algemene Bepalingen & Rechtspraak (WABR)
 
 <div class="wetboek-content" markdown>
 
