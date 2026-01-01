@@ -1,7 +1,5 @@
 # Wetboek Algemene Bepalingen & Rechtspraak (WABR)
 
-<div class="wetboek-content" markdown>
-
 ### Hoofdstuk I: Reikwijdte en Toepasselijkheid
 
 ## **Artikel I**
@@ -58,4 +56,3 @@ Straffen kunnen bestaan uit geldboetes, gevangenisstraffen, taakstraffen of het 
 **Cumulatie:** Bij meerdere overtredingen worden de boetes en celstraffen bij elkaar opgeteld, tenzij een rechter anders bepaalt.
 ## **Artikel XVI**
 **Recidive:** Indien een verdachte binnen een korte periode (bijv. 48 uur) herhaaldelijk hetzelfde strafbare feit pleegt, kan de straf met 50% worden verhoogd.
-</div>
