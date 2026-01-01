@@ -29,8 +29,8 @@ Strafbare feiten verjaren na een periode van 30 dagen.
 
 ## Artikel V - Inbeslagnames en invorderingen
 1. Wanneer een strafbaar feit gepleegd is met een goed, of wanneer een goed uit een strafbaar feit is verkregen, kan deze in beslag worden genomen.
-* a. De keuze voor inbeslagname is ter beoordeling van de politie;
-* b. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie.
+    a. De keuze voor inbeslagname is ter beoordeling van de politie;
+    b. Verwerking van de in beslag genomen goederen (behalve voertuigen) geschiedt volgens richtlijn van Politie.
 2. Wanneer een voertuig in beslag wordt genomen vanwege een strafbaar feit:
 * a. Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek, in deze 3 dagen heeft de politie de tijd om de bewijzen te verzamelen en beschikbaar te stellen;
 * b. Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een strafbaar feit, uitgekocht kunnen worden op basis van de ernst van het strafbaar feit, 24 uur nadat de inbeslagname is geregistreerd in de politiesystemen;
