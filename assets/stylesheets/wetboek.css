@@ -1,0 +1,65 @@
+/* --- DE ULTIEME WETBOEK FORCEER-CODE --- */
+
+/* 1. De Blauwe Artikel Balken */
+.md-typeset .wetboek-content h2 {
+    background-color: #f1f1f1 !important; /* Grijze balk */
+    color: #005eb8 !important;            /* Wetten.nl Blauw */
+    padding: 10px 15px !important;
+    border-radius: 4px !important;
+    font-size: 1.1rem !important;
+    text-transform: none !important;
+    border-bottom: none !important;
+    margin-top: 2em !important;
+    display: block !important;
+    width: 100% !important;
+}
+
+/* 2. Reset Lijsten */
+.md-typeset .wetboek-content ol {
+    list-style: none !important;
+    padding-left: 0 !important;
+}
+
+/* 3. NIVEAU 1: Witte nummers voor de Leden (1, 2, 3) */
+.md-typeset .wetboek-content > ol {
+    counter-reset: lid-counter !important;
+}
+
+.md-typeset .wetboek-content > ol > li {
+    counter-increment: lid-counter !important;
+    position: relative !important;
+    padding-left: 3.5em !important;
+    margin-bottom: 1.5em !important;
+}
+
+.md-typeset .wetboek-content > ol > li::before {
+    content: counter(lid-counter) !important;
+    position: absolute !important;
+    left: 0 !important;
+    font-weight: 900 !important;
+    color: #ffffff !important; /* Wit cijfer */
+    font-size: 1.2rem !important;
+    width: 2.5em !important;
+}
+
+/* 4. NIVEAU 2: Blauwe letters (a, b, c) */
+.md-typeset .wetboek-content ol li ol {
+    counter-reset: sub-counter !important;
+    margin-top: 10px !important;
+}
+
+.md-typeset .wetboek-content ol li ol > li {
+    counter-increment: sub-counter !important;
+    position: relative !important;
+    padding-left: 2.5em !important;
+}
+
+/* FIX VOOR DE "a. 1" FOUT */
+.md-typeset .wetboek-content ol li ol > li::before {
+    content: counter(sub-counter, lower-alpha) "." !important;
+    position: absolute !important;
+    left: 0 !important;
+    color: #005eb8 !important; /* Blauwe letter */
+    font-weight: 700 !important;
+    font-size: 1rem !important;
+}
